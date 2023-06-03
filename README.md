@@ -1,6 +1,8 @@
-<h1 allign="center" <a href="https://games.ieeessitvit.tech/">Tetris</a></h1>
---
 
+--
+<h2 align="center" ><a href="https://games.ieeessitvit.tech/">## **Tetris**</a></h2>
+
+<br>
 ## **Description 📃**
 - this game is developed by html,css and js tech stacks and you can play it easily by using the keys of the device!
 
