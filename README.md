@@ -25,11 +25,3 @@ Down Arrow Key/Down -Move Down
 
 
 <br>
-
-## **Screenshots 📸**
-
-<br>
-
-![image](../../assets/images/Tetris.png)
-
-<br>
