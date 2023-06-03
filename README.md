@@ -1,4 +1,4 @@
-<h2 align="center" ><a href="https://games.ieeessitvit.tech/">Tetris</a></h2> 
+<h2 align="center" ><a href="https://games.ieeessitvit.tech/">## **Tetris**</a></h2> 
 --
 
 ## **Description 📃**
